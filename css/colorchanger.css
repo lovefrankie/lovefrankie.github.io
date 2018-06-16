@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+/* COLOR CHANGER */
+#colorchanger { float:right; }
+.colorbox 				{width:20px; height:20px; border:1px solid #050505; float:left; margin:5px; cursor:pointer; display:block; }
+.colorMediumblue 		{background-color:#0000CD; }
+
+.colororange			{background-color:#F69C3A; }
+
+.colorgreen				{background-color:#78A848; }
