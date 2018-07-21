@@ -7,7 +7,7 @@
 <html lang="en"><!--<![endif]--><head>
         <meta charset="utf-8">
 
-        <title>Love Frankie: Social Change Creative Agency</title>
+        <title>Love Frankie - Social Change Creative Agency</title>
 		<meta name="description" content="Love Frankie is a Bangkok-based social change creative agency. We respond to challenging social and development issues affecting people across Asia. Love Frankie is a part of the M&C Saatchi World Services global network.">
 		<meta name="keywords" content="Love Frankie, Creative Agency, Bangkok, Thailand, Social Change">
 		<meta name="author" content="Digital Fund">
@@ -16,8 +16,8 @@
         <meta property="og:title" content="Love Frankie: Social Change Creative Agency" />
         <meta property="og:description" content="Love Frankie believes that innovative social networking and entertaining media content has the power to change lives." />
         <meta property="og:url" content="http://lovefrankie.co/" />
-        <meta property="og:image" content="http://lovefrankie.co/images/matt-bek-fb.jpg" /> 
-        
+        <meta property="og:image" content="http://lovefrankie.co/images/matt-bek-fb.jpg" />
+
         <!-- Mobile Specific Metas -->
         <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
 
@@ -49,44 +49,44 @@
 		<script type="text/javascript" src='js/jquery.scrollTo-1.4.2-min.js'></script>
         <script type="text/javascript" src="js/supersized.3.2.7.min.js"></script>
         <script type="text/javascript" src="theme/supersized.shutter.min.js"></script>
-        <script type="text/javascript" src="js/jquery.prettyPhoto.js"></script> 
-        <script type="text/javascript" src="js/jquery.quicksand.js"></script> 
+        <script type="text/javascript" src="js/jquery.prettyPhoto.js"></script>
+        <script type="text/javascript" src="js/jquery.quicksand.js"></script>
         <script type="text/javascript" src="js/jquery.ba-resize.min.js"></script>
         <script type="text/javascript" src="js/jquery.easing.min.js"></script>
         <script type="text/javascript" src="js/jquery.mousewheel.js"></script>
         <script type="text/javascript" src="js/modernizr.js"></script>
         <script type="text/javascript" src="js/jquery.style-switcher.js"></script>
-        
+
         <!-- Custom -->
         <script type="text/javascript" src="js/script.js"></script>
 
         <!-- Google Maps -->
 		<script src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
-		<script type="text/javascript" src="js/gmap3.js"></script> 
+		<script type="text/javascript" src="js/gmap3.js"></script>
 
-        
+
 
 <!-- Setup Supersized Plugin -->
         <script type="text/javascript">
             $(document).ready(function(){
 						$.supersized({
-						
+
 							// Functionality
 							slide_interval          :   3500,		// Length between transitions
 							transition              :   1, 			// 0-None, 1-Fade, 2-Slide Top, 3-Slide Right, 4-Slide Bottom, 5-Slide Left, 6-Carousel Right, 7-Carousel Left
-							transition_speed		:	1500,		// Speed of transition							   
-							// Components							
+							transition_speed		:	1500,		// Speed of transition
+							// Components
 							slide_links				:	'blank',	// Individual links for each slide (Options: false, 'num', 'name', 'blank')
 							slides 					:  	[			// Slideshow Images
-																
+
 								{image : 'http://lovefrankie.co/images/BKK-BTS.jpg', title : 'Bangkok Sky Train', thumb : '', url : ''}
 							 // Be sure there is no comma after your last slide
 							]
-							
+
 						});
             });
         </script>
-        
+
         <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -111,9 +111,9 @@
                     <li><a href="#callout">Team</a></li>
                     <li><a href="#clients">Partners</a></li>
                     <li><a href="#contact">Contact</a></li>
-                </ul>    
+                </ul>
             <!-- Home -->
-            <a id="icon-home" href="#home"></a>   
+            <a id="icon-home" href="#home"></a>
             </nav>
 
             <!-- /Navigation -->
@@ -136,13 +136,13 @@
 								<li class="icon-soc-cir-blk-twitter" onclick='window.location.href="https://twitter.com/lovefrankieco"'></li>
 								<li class="icon-soc-cir-blk-linkedin" onclick='window.location.href="http://www.linkedin.com/company/6382946?trk=tyah&trkInfo=idx%3A2-2-7%2CtarId%3A1423618378225%2Ctas%3Alove+frankie"'></li>
 								<li class="icon-soc-cir-blk-instagram" onclick='window.location.href="http://instagram.com/lovefrankieco"'></li>
-                            </ul> 
+                            </ul>
                         </div>
 					</div>
                 </section>
             </div>
             <!-- END Section / "Home" -->
-            
+
             <!-- Anchor for Navigation -->
             <div id="nav-anchor"></div>
 
@@ -185,7 +185,7 @@ Love Frankie is a part of the M&C Saatchi World Services global network.
                 </div>
             </section>
             <!-- END Section / "About" -->
-            
+
             <!-- START Section / "Approach" -->
             <section id="approach">
                 <div class="fullscreen-section-wrapper-no-pad black">
@@ -195,51 +195,51 @@ Love Frankie is a part of the M&C Saatchi World Services global network.
                     <!-- Portfolio Items -->
                     <ul class="portfolio group">
                         <li class="item c2 no-margin-no-pad" data-id="id-1" data-type="branding">
-                            
-                                
-                                <img src="images/portfolio/1.jpg" width="430" height="315" alt="Love Frankie Problem Definition"/>																		
-                            </a>   
+
+
+                                <img src="images/portfolio/1.jpg" width="430" height="315" alt="Love Frankie Problem Definition"/>
+                            </a>
                         </li>
                         <li class="item c2 no-margin-no-pad" data-id="id-2" data-type="print">
-                            
-                                
-                                <img src="images/portfolio/2.jpg" width="430" height="315" alt="Love Frankie Evidence & Research"/>																		
-                            </a>                                            
+
+
+                                <img src="images/portfolio/2.jpg" width="430" height="315" alt="Love Frankie Evidence & Research"/>
+                            </a>
                         </li>
                         <li class="item c2 no-margin-no-pad" data-id="id-3" data-type="mobile">
-                            
-                                
-                                <img src="images/portfolio/3.jpg" width="430" height="315" alt="Love Frankie Strategy Development & Program Design"/>																		
-                            </a>                                            
+
+
+                                <img src="images/portfolio/3.jpg" width="430" height="315" alt="Love Frankie Strategy Development & Program Design"/>
+                            </a>
                         </li>
                         <li class="item c2 no-margin-no-pad" data-id="id-4" data-type="print">
-                           
-                                
-                                <img src="images/portfolio/4.jpg" width="430" height="315" alt="Love Frankie Production"/>																		
-                            </a>                                            
+
+
+                                <img src="images/portfolio/4.jpg" width="430" height="315" alt="Love Frankie Production"/>
+                            </a>
                         </li>
                         <li class="item c2 no-margin-no-pad" data-id="id-5" data-type="mobile">
-                           
-                                
-                                <img src="images/portfolio/5.jpg" width="430" height="315" alt="Love Frankie Distribution"/>																		
-                            </a>                                            
+
+
+                                <img src="images/portfolio/5.jpg" width="430" height="315" alt="Love Frankie Distribution"/>
+                            </a>
                         </li>
                         <li class="item c2 no-margin-no-pad" data-id="id-6" data-type="branding">
-                           
-                                
-                                <img src="images/portfolio/6.jpg" width="430" height="315" alt="Love Frankie Impact & Measurement"/>																		
-                            </a>              
+
+
+                                <img src="images/portfolio/6.jpg" width="430" height="315" alt="Love Frankie Impact & Measurement"/>
+                            </a>
                             <br>
-                            <br>   
-                            <br>                              
+                            <br>
+                            <br>
                         </li>
                         </br>
-                        
+
                     </ul><!-- END Approach Items -->
                 </div>
-            </section>      
+            </section>
             <!-- END Section / "Approach" -->
-            
+
             <!-- START Section / "Callout" -->
             <section id="callout">
                 <div class="background-image background-image-group">
@@ -262,11 +262,11 @@ Love Frankie is a part of the M&C Saatchi World Services global network.
                         <p style="color:#000000; background-color:#ffffff; padding:15px 15px 15px 15px; font-weight:bold; width: 65%">Matt Love and Rebecca ‘Frankie’ Mok are leading social movement builders in the Asia Pacific region with over 10 years experience in mobilising populations around critical social issues. As the leaders of the highly successful MTV EXIT campaign that educated millions of people worldwide about the issue of modern day slavery through innovative live events, TV programs, digital content and youth outreach programs, their work in Asia has been heralded as providing one of the most comprehensive platforms for engagement on human rights globally.</p>
                         <br>
                         <br>
-                            
+
 
                     </div>
 
-                </div> 
+                </div>
             </section>
             <!-- END Section / "Team" -->
 
@@ -278,14 +278,14 @@ Love Frankie is a part of the M&C Saatchi World Services global network.
                         <div class="client-list-row row padding-left-right">
 	                        <h3 style="color:#ffffff; text-align:center; padding-bottom: 30px; font-weight:bold">Love Frankie and M&C Saatchi World Services work with a diverse client base from a range of sectors, including:</h3>
 	                        <br>
-                             
+
                             <span class="c2 align-center client-list-row-1" target="1"><img src="http://lovefrankie.co/logo/usds2.png" width="170" height="170" alt="DFAT"></span>
-                            <span class="c2 align-center client-list-row-1" target="2"><img src="http://lovefrankie.co/logo/wfp2.png" width="170" height="170" alt="USAID"></span> 
-                            <span class="c2 align-center client-list-row-1" target="3"><img src="http://lovefrankie.co/logo/undp2.png" width="170" height="170" alt=""></span> 
+                            <span class="c2 align-center client-list-row-1" target="2"><img src="http://lovefrankie.co/logo/wfp2.png" width="170" height="170" alt="USAID"></span>
+                            <span class="c2 align-center client-list-row-1" target="3"><img src="http://lovefrankie.co/logo/undp2.png" width="170" height="170" alt=""></span>
                             <span class="c2 align-center client-list-row-1" target="4"><img src="http://lovefrankie.co/logo/unhcr2.png" width="170" height="170" alt=""></span>
-                            <span class="c2 align-center client-list-row-1" target="5"><img src="http://lovefrankie.co/logo/usaid2.png" width="170" height="170" alt=""></span> 
+                            <span class="c2 align-center client-list-row-1" target="5"><img src="http://lovefrankie.co/logo/usaid2.png" width="170" height="170" alt=""></span>
                             <span class="c2 align-center client-list-row-1" target="6"><img src="http://lovefrankie.co/logo/oxfam2.png" width="170" height="170" alt=""></span>
-                           
+
                         </div>
                    <!-- end logo list row 1 -->
 
@@ -293,10 +293,10 @@ Love Frankie is a part of the M&C Saatchi World Services global network.
                    <div class="fullscreen-section-wrapper-split-bottom">
                         <div class="client-list-row row padding-left-right">
 
-						   <span class="c2 align-center client-list-row-1" target="7"><img src="http://lovefrankie.co/logo/world-bank.png" width="170" height="170" alt=""></span>				
-                            <span class="c2 align-center client-list-row-2" target="8"><img src="http://lovefrankie.co/logo/freedom-fund.png" width="170" height="170" alt=""></span> 
-                            <span class="c2 align-center client-list-row-2" target="9"><img src="http://lovefrankie.co/logo/dfat2.png" width="170" height="170" alt=""></span> 
-                            <span class="c2 align-center client-list-row-2" target="10"><img src="http://lovefrankie.co/logo/british-council.png" width="170" height="170" alt=""></span> 
+						   <span class="c2 align-center client-list-row-1" target="7"><img src="http://lovefrankie.co/logo/world-bank.png" width="170" height="170" alt=""></span>
+                            <span class="c2 align-center client-list-row-2" target="8"><img src="http://lovefrankie.co/logo/freedom-fund.png" width="170" height="170" alt=""></span>
+                            <span class="c2 align-center client-list-row-2" target="9"><img src="http://lovefrankie.co/logo/dfat2.png" width="170" height="170" alt=""></span>
+                            <span class="c2 align-center client-list-row-2" target="10"><img src="http://lovefrankie.co/logo/british-council.png" width="170" height="170" alt=""></span>
                             <span class="c2 align-center client-list-row-2" target="11"><img src="http://lovefrankie.co/logo/facebook.png" width="170" height="170" alt=""></span>
                             <span class="c2 align-center client-list-row-2" target="12"><img src="http://lovefrankie.co/logos/girl_effect.png" width="170" height="170" alt=""></span>
                         </div>
@@ -306,17 +306,17 @@ Love Frankie is a part of the M&C Saatchi World Services global network.
                    <div class="fullscreen-section-wrapper-split-bottom">
                         <div class="client-list-row row padding-left-right">
 
-                            <span class="c2 align-center client-list-row-2" target="13"><img src="http://lovefrankie.co/logo/equity-initiative.png" width="170" height="170" alt=""></span> 
+                            <span class="c2 align-center client-list-row-2" target="13"><img src="http://lovefrankie.co/logo/equity-initiative.png" width="170" height="170" alt=""></span>
                             <span class="c2 align-center client-list-row-2" target="14"><img src="http://lovefrankie.co/logo/greenpeace.png" width="170" height="170" alt=""></span>
-						   <span class="c2 align-center client-list-row-2" target="15"><img src="http://lovefrankie.co/logo/lush.png" width="170" height="170" alt=""></span> 						
-                            <span class="c2 align-center client-list-row-2" target="16"><img src="http://lovefrankie.co/logo/google.png" width="170" height="170" alt=""></span> 
-                            <span class="c2 align-center client-list-row-2" target="17"><img src="http://lovefrankie.co/logo/iomx.png" width="170" height="170" alt=""></span> 
-                            <span class="c2 align-center client-list-row-2" target="18"><img src="http://lovefrankie.co/logo/freeland.png" width="170" height="170" alt=""></span> 
+						   <span class="c2 align-center client-list-row-2" target="15"><img src="http://lovefrankie.co/logo/lush.png" width="170" height="170" alt=""></span>
+                            <span class="c2 align-center client-list-row-2" target="16"><img src="http://lovefrankie.co/logo/google.png" width="170" height="170" alt=""></span>
+                            <span class="c2 align-center client-list-row-2" target="17"><img src="http://lovefrankie.co/logo/iomx.png" width="170" height="170" alt=""></span>
+                            <span class="c2 align-center client-list-row-2" target="18"><img src="http://lovefrankie.co/logo/freeland.png" width="170" height="170" alt=""></span>
                         </div>
                     <!-- end logo list row 3 -->
 
-                       
-                        
+
+
                </div>
             </section>
             <!-- END Section / "Partners" -->
@@ -350,16 +350,16 @@ Love Frankie is a part of the M&C Saatchi World Services global network.
             	<div class="padding align-center">
                     <ul>
                         <li class="copyright"><p><a href="https://plus.google.com/103776950840548446123" rel="publisher">-</a>
- © 2017 All right reserved. Site designed by <strong class="text-white">Love Frankie</strong></p></li> 
-                    </ul>  
+ © 2017 All right reserved. Site designed by <strong class="text-white">Love Frankie</strong></p></li>
+                    </ul>
                     <ul class="link-module-icons align-center">
 						<li class="icon-soc-cir-blk-fb" onclick='window.location.href="https://facebook.com/lovefrankieco"'></li>
                         <li class="icon-soc-cir-blk-twitter" onclick='window.location.href="https://twitter.com/lovefrankieco"'></li>
                         <li class="icon-soc-cir-blk-linkedin" onclick='window.location.href="http://www.linkedin.com/company/6382946?trk=tyah&trkInfo=idx%3A2-2-7%2CtarId%3A1423618378225%2Ctas%3Alove+frankie"'></li>
                         <li class="icon-soc-cir-blk-instagram" onclick='window.location.href="http://instagram.com/lovefrankieco"'></li>
-                       
-                        
-                    </ul> 
+
+
+                    </ul>
                 </div>
             </footer>
             <!-- END Footer -->
@@ -367,13 +367,13 @@ Love Frankie is a part of the M&C Saatchi World Services global network.
         <!-- END Main Content Wrapper -->
 
 
-        <!-- Scrollto & Link Highlight -->  
+        <!-- Scrollto & Link Highlight -->
         <script>
             $(document).ready(function(){
-        
-                /** 
+
+                /**
                  * This part does the "fixed navigation after scroll" functionality
-                 * We use the jQuery function scroll() to recalculate our variables as the 
+                 * We use the jQuery function scroll() to recalculate our variables as the
                  * page is scrolled/
                  */
 
@@ -387,11 +387,11 @@ Love Frankie is a part of the M&C Saatchi World Services global network.
                         $('nav').removeClass('stick');
                     }
                 });
-        
+
 
                 $("nav a").not('#blog, #submitbtn').click(function(evn){
                     evn.preventDefault();
-                    $('html,body').scrollTo(this.hash, this.hash); 
+                    $('html,body').scrollTo(this.hash, this.hash);
 					exclude: ['#blog']
                 });
 
@@ -400,17 +400,17 @@ Love Frankie is a part of the M&C Saatchi World Services global network.
                  */
                 var aChildren = $("nav li").children(); // find the a children of the list items
                 var aArray = []; // create the empty aArray
-                for (var i=0; i < aChildren.length; i++) {    
+                for (var i=0; i < aChildren.length; i++) {
                     var aChild = aChildren[i];
                     var ahref = $(aChild).attr('href');
                     aArray.push(ahref);
                 } // this for loop fills the aArray with attribute href values
-        
+
                 $(window).scroll(function(){
                     var windowPos = $(window).scrollTop()+ 55; // get the offset of the window from the top of page
                     var windowHeight = $(window).height(); // get the height of the window
                     var docHeight = $(document).height();
-            
+
                     for (var i=0; i < aArray.length; i++) {
                         var theID = aArray[i];
                         var divPos = $(theID).offset().top; // get the offset of the div from the top of page
@@ -421,7 +421,7 @@ Love Frankie is a part of the M&C Saatchi World Services global network.
                             $("a[href='" + theID + "']").removeClass("nav-active");
                         }
                     }
-            
+
                     if(windowPos + windowHeight == docHeight) {
                         if (!$("nav li:last-child a").hasClass("nav-active")) {
                             var navActiveCurrent = $(".nav-active").attr("href");
